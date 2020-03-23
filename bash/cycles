@@ -1,0 +1,5 @@
+#!/bin/bash
+for var in rok pop rap cantry soul "И конечно же Шансон"
+do
+echo Существует музыкальный жанр как "$var"
+done
